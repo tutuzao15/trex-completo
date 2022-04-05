@@ -1,2 +1,2 @@
-# trex-completo
-trex e pronto
+# T-ReX-Completo
+T-rex completo
